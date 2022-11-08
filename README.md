@@ -1,3 +1,10 @@
 # team6_asimo
 
-arunshok06@gmail.com
+captain : arunshok06@gmail.com
+
+ARUN ASHOK THAVARMKUNNATH
+ASHIKH KADAVATH
+AUGUSTIN FRANSON
+EVIN XAVIER
+DENNIS JOSEPH
+JERRIN JOSEPH
